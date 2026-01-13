@@ -1,0 +1,8 @@
+{
+  "name": "OmniTest Pro - Intelligent Automotive & Mobile Test Hub",
+  "description": "A comprehensive, AI-powered automation testing platform for smart automotive systems, Android/iOS devices, MCUs, and cross-platform applications.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
